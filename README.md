@@ -69,7 +69,7 @@ The database schema includes the following tables:
 1. **Start the Flask application:**
 
     ```bash
-    python app.py
+    python3 app.py
     ```
 
 2. **Access the API:**
@@ -127,13 +127,11 @@ The database schema includes the following tables:
 
 Contributions are welcome! Please fork the repository and create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, please reach out at:
+
   Username: MadhuNishad23
+  
   Project link: https://github.com/MadhuNishad23/library-management-system
 
